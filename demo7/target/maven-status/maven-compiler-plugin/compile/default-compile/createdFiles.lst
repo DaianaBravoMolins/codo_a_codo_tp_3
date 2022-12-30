@@ -1,0 +1,4 @@
+com\mycompany\web\Models\AccionesCliente.class
+com\mycompany\web\Models\Cliente.class
+com\mycompany\web\Servlets\VerServlet.class
+com\mycompany\web\Servlets\InsertarServlet.class
